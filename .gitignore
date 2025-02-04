@@ -11,3 +11,15 @@ assets/libs/
 node_modules/
 vendor
 .idea
+
+
+.env
+environments/
+.vscode/launch.json
+
+*.log
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+.env
