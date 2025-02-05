@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Hierarchical Modeling of Song Sparrows
+description: Linear mixed-effects models with time correlation for analyzing avian reproduction.
 img: assets/img/3.jpg
 importance: 2
 category: work
