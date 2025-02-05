@@ -145,7 +145,7 @@ exclude:
   - readme_preview/
   - vendor
 
-  # Delete the publication page
+  # Delete the blog page
   - _posts/
   - _pages/blog.md
   - _pages/dropdown.md
@@ -156,6 +156,10 @@ exclude:
   - _layouts/archive-year.liquid
   - _plugins/external-posts.rb
 
+# Delete the repositories page
+  - _pages/repositories.md
+  - _includes/repository/
+  
 keep_files:
   - CNAME
   - .nojekyll
