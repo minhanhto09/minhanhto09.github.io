@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Minh-Anh To",
+    "label": "Data Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "minhanh.to@duke.edu",
+    "phone": "(919) 475-8485",
+    "url": "https://www.linkedin.com/in/minhanhto/",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "",
       "countryCode": "US",
-      "region": "California"
+      "region": "North Carolina"
     },
     "profiles": [
       {
@@ -24,13 +24,16 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "ChessMind AI",
+      "position": "AI Developer",
+      "url": "https://chessmind.ai/",
+      "startDate": "2024-08",
+      "endDate": "Present",
+      "highlights": ["Developed a Chess Tutor Chatbot by utilizing Generative AI and collaborating with a chess grand master to provide learners with personalized gameplay feedback and insights.",
+                    "Cleaned and mined large datasets of post-game chess analyses (>100K entries) using Pandas and NLP packages, building a structured database for training.",
+                    "Built a Retrieval-Augmented Generation (RAG) pipeline using LangChain to retrieve chess concepts from an expert-curated dataset, increasing model retrieval accuracy by 28%.",
+                    "Optimized Large Language Model (LLM) responses through few-shot learning and chain-of-thought prompting, minimizing hallucinations; validated performance with semantic similarity metrics, achieving over 99% accuracy.",
+                    "Documented and maintained a comprehensive GitHub codebase, including unit testing and automation scripts, reducing pipeline debugging and deployment time by 40%."]
     }
   ],
   "volunteer": [
