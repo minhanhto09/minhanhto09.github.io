@@ -3,8 +3,8 @@ layout: page
 title: NuCLS
 description: Hugging Face Integration and Nuclei detection in breast cancer images using YOLOv8.
 img: assets/img/12.jpg
-importance: 1
-category: work
+importance: 2
+category: [deep learning, statistical modeling]
 related_publications: false
 ---
 

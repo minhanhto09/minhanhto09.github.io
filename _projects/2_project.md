@@ -3,8 +3,8 @@ layout: page
 title: Hierarchical Modeling of Song Sparrows
 description: Linear mixed-effects models with time correlation for analyzing avian reproduction.
 img: assets/img/3.jpg
-importance: 2
-category: work
+importance: 1
+category: statistical modeling
 giscus_comments: true
 ---
 
