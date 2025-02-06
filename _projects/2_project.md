@@ -19,7 +19,7 @@ giscus_comments: true
 
 ## Introduction
 
-Find the **detailed github repository** [here](https://github.com/minhanhto09/hierachical_models/tree/main).
+Find the **detailed github repository** [here](https://github.com/minhanhto09/hierachical_models).
 
 
 Understanding the factors that drive reproductive success in birds offers valuable insights into ecological and evolutionary processes. For song sparrows, reproductive variability may stem from a combination of individual traits—such as fitness, age, or nesting behavior—and environmental influences like competition and nesting site quality.
