@@ -30,7 +30,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Hi! 
 
-I'm Minh-Anh To, a data scientist and machine learning engineer with 3+ years of experience and a strong foundation in statistical science and AI. I’m currently pursuing my Master’s in Statistical Science at Duke University, supported by a full-tuition and Vingroup Scholarship.  I also serve as a teaching assistant (TA), a member of the [Graduate Consultative Committee (GCC)](https://stat.duke.edu/ms/student-governance), and an official member of [American Statistical Association (ASA)](https://www.amstat.org/).
+I'm a data scientist and machine learning engineer with 3+ years of experience and a strong foundation in statistical science and AI. I’m currently pursuing my Master’s in Statistical Science at Duke University, supported by a full-tuition and Vingroup Scholarship.  I also serve as a teaching assistant (TA), a member of the [Graduate Consultative Committee (GCC)](https://stat.duke.edu/ms/student-governance), and an official member of [American Statistical Association (ASA)](https://www.amstat.org/).
 
 My journey in data science has been all about tackling impactful, real-world challenges with data and AI. During my [summer internship](https://cfar.duke.edu/front-page/2024-quan-methods-summer-intern-profiles) at the Duke University School of Medicine, I led the development of a full machine-learning pipeline to optimize antibody production for HIV/AIDS patients. Currently, I’m collaborating with a [chess grandmaster](https://chessmind.ai/) as an AI developer to create a generative AI-powered Chess Tutor bot that delivers personalized post-game analysis and strategic insights.
 
