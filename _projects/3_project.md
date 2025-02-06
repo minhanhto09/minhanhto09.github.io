@@ -1,81 +1,57 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: PeakPlanner
+description: An AI-powered scheduler that plans your work and study tasks around your health for peak performance.
+img: assets/img/18.jpeg
+redirect: https://github.com/minhanhto09/dukeaihackathon24
 importance: 3
-category: work
+category: generative AI
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Find the full project details, code, and documentation on my GitHub page: [PeakPlanner Project on GitHub](https://github.com/minhanhto09/dukeaihackathon24)
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+# LLM-Based Schedule Optimizer - PeakPlanner
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+PeakPlanner is a smart scheduling tool that helps you plan work and study tasks around your health and productivity. By analyzing data like your sleep, energy levels, menstrual cycles, and productivity patterns, PeakPlanner automatically schedules your important tasks at times when you're at your best. This way, you don't need to plan your week manually, but you'll still meet your high-priority deadlines without sacrificing well-being.
+
+With PeakPlanner, managing your schedule is effortless. Instead of manually adding tasks or adjusting time blocks to handle multiple deadlines, PeakPlanner organizes everything for you. Just enter your deadlines, and PeakPlanner takes care of the rest—it even prioritizes rest on low-energy days and assigns your most productive times for key tasks. Enjoy staying on top of your priorities with a balanced, productive routine, without the hassle of manual planning.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/15.png" title="peakplanner icon" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
+
+## Key Features
+
+### Optimal Time Block Suggestions
+    
+PeakPlanner intelligently integrates both health data (e.g., sleep, productivity, menstrual cycles, energy levels, etc.) and schedule data (e.g., deadlines, fixed events) to suggest the best time blocks for high-priority tasks. The system aligns important deadlines with times when you are naturally more alert and focused, preventing last-minute stress and maximizing efficiency.
+
+### Task Tracking and Habit Formation
+
+Each day, PeakPlanner prompts you to log task completion, allowing it to track your habits and time spent. This feedback loop helps refine its suggestions, enabling smarter adjustments based on your real-world performance and fostering better time management habits.
+
+## How To Use
+
+With a simple web extension, PeakPlanner can be seamlessly integrated into your existing calendar, making the optimization process smooth and intuitive. Simply add your calendar and sync your health data, and you'll be able to view your optimized schedule directly within your preferred calendar interface. This integration ensures that your most productive schedule is always just a click away.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/16.png" title="peakplanner extension" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+## Future Enhancements
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+### Advanced Health Data Integration
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+Add tracking for more health metrics, such as exercise routines and physical activity levels, to provide even more tailored scheduling insights.
 
-{% raw %}
+### Expanded Scheduling Options
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+Integrate with local event data, along with gym sessions and meditation blocks, for a well-rounded approach to personal time management.
 
-{% endraw %}
+### Peak Productivity Insights
+
+Introduce features to predict and highlight peak productivity windows, allowing you to plan high-priority work around your most effective times.
