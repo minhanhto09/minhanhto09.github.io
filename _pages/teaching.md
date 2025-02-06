@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching Assistant Experience
+title: 
 description:
 nav: true
 nav_order: 6
 ---
 
-## STA101: Data Analysis and Statistical Inference
+## TA for STA101: Data Analysis and Statistical Inference
 
 **Duration:** Fall 2023, Spring 2024  
 
@@ -20,7 +20,7 @@ An introduction to statistics as the science of understanding and analyzing data
 
 ---
 
-## STA360: Bayesian Methods and Modern Statistics
+## TA for STA360: Bayesian Methods and Modern Statistics
 
 **Duration:** Fall 2024
 
