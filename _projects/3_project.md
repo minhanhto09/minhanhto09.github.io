@@ -5,7 +5,7 @@ description: An AI-powered scheduler that plans your work and study tasks around
 img: assets/img/18.jpeg
 redirect: https://github.com/minhanhto09/dukeaihackathon24
 importance: 3
-category: generative AI
+category: application
 ---
 
 Find the full project details, code, and documentation on my GitHub page: [PeakPlanner Project on GitHub](https://github.com/minhanhto09/dukeaihackathon24)

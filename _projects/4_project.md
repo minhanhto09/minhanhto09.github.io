@@ -4,7 +4,7 @@ title: Text-to-Image Synthesis Using Conditional-VAE
 description: Exploring how Conditional Variational Autoencoders generate images from textual descriptions.
 img: assets/img/19.jpeg
 importance: 4
-category: deep learning
+category: method
 ---
 
 Imagine a model that can transform words into images—turning a simple description into a vivid, visual representation. In this project, we explored the power of **Conditional Variational Autoencoders (CVAE)** for generating images from text. By training models on datasets like Fashion-MNIST and MS-COCO, we examined how well these models can capture semantic meaning and produce images that reflect the nuances of both short labels and detailed captions. 

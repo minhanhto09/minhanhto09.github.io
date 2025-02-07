@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 3
-display_categories: [deep learning, statistics, generative AI]
+display_categories: [method, application]
 horizontal: false
 ---
 

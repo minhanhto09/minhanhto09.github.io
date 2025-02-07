@@ -4,7 +4,7 @@
     "label": "Master's in Statistical Science Student",
     "image": "",
     "email": "minhanh.to@duke.edu",
-    "phone": "(919) 475-8485",
+    "phone": "",
     "url": "https://minhanhto09.github.io",
     "summary": "",
     "location": {
@@ -65,10 +65,20 @@
       "location": "Durham, NC, USA",
       "url": "https://stat.duke.edu/",
       "studyType": "Master's in Statistical Science",
-      "startDate": "2023-08-28",
-      "endDate": "2025-05-11",
+      "startDate": "2023-08",
+      "endDate": "2025-05",
       "score": "3.91/4.0",
       "courses": ["Predictive Modeling, Deep Learning, Causal Inference, Statistical Computation, R Programming, SQL, Bayesian Statistics, Theory of Inference, Hierarchical Models, Applied Machine Learning."]
+    },
+    {
+      "institution": "Hanoi National University of Education",
+      "location": "Hanoi, Vietnam",
+      "url": "https://english.hnue.edu.vn/",
+      "studyType": "Bachelor's in Mathematics",
+      "startDate": "2014-08",
+      "endDate": "2018-05",
+      "score": "3.65/4.0 (Top 5%)",
+      "courses": ["One and Multivariable Analysis, Functional Analysis, Linear Algebra, Complex Analysis, Measure Theory, Optimization Theory, Introduction to Probability Theory, Statistics, Ordinary and Partial Differential Equations, Numerical Analysis."]
     }
   ],
   "awards": [
@@ -83,13 +93,24 @@
       "date": "2023-05",
       "awarder": "VinGroup Vietnam",
       "url": "https://scholarships.vinuni.edu.vn/cohort-2023/",
-      "summary": "Top 1% of applicants nationwide to receive the scholarship for the academic years 2023-2024 and 2024-2025."
+      "summary": "Top 1% of applicants nationwide to receive the scholarship for the academic years 2023-2025."
+    },
+    {
+      "title": "HNUE Graduation: Summa Cum Laude",
+      "date": "2018-05",
+      "awarder": "Hanoi National University of Education",
+      "summary": "Top 5% of undergraduate students in the class of 2018."
+    },
+    {
+      "title": "HNUE Dean's List with Distinction (4 years)",
+      "date": "2015-08",
+      "awarder": "Hanoi National University of Education"
     },
     {
       "title": "Vietnam National Mathematics Scholarship",
-      "date": "2016-08, 2017-08",
+      "date": "2016-08",
       "awarder": "Vietnam Ministry of Education and Training",
-      "summary": "Top 1% of undergraduate mathematics majors nationwide."
+      "summary": "Top 1% of undergraduate mathematics majors nationwide for the academic years 2016-2017."
     }
   ],
   "certificates": [

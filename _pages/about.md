@@ -30,14 +30,14 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Hi! 
 
-I'm a data scientist and machine learning engineer with 3+ years of experience and a strong foundation in statistical science and AI. I’m currently pursuing my Master’s in Statistical Science at Duke University, supported by a full-tuition and Vingroup Scholarship.  I also serve as a teaching assistant (TA), a member of the [Graduate Consultative Committee (GCC)](https://stat.duke.edu/ms/student-governance), and an official member of [American Statistical Association (ASA)](https://www.amstat.org/).
+I’m an aspiring data scientist and Master’s student in Statistical Science at Duke University, supported by the Duke full-tuition and the Vingroup Scholarships. I have 3+ years of experience in data science and statistical modeling, with roles as a TA, a member of the [Graduate Consultative Committee (GCC)](https://stat.duke.edu/ms/student-governance), and a member of [American Statistical Association (ASA)](https://www.amstat.org/).
 
-My journey in data science has been all about tackling impactful, real-world challenges with data and AI. During my [summer internship](https://cfar.duke.edu/front-page/2024-quan-methods-summer-intern-profiles) at the Duke University School of Medicine, I led the development of a full machine-learning pipeline to optimize antibody production for HIV/AIDS patients. Currently, I’m collaborating with a [chess grandmaster](https://chessmind.ai/) as an AI developer to create a generative AI-powered Chess Tutor bot that delivers personalized post-game analysis and strategic insights.
+My journey in data science has been all about tackling impactful, real-world challenges with data and statistics. During my [summer internship](https://cfar.duke.edu/front-page/2024-quan-methods-summer-intern-profiles) at the Duke University School of Medicine, I led the development of a full machine-learning pipeline to optimize antibody production for HIV/AIDS patients. Currently, I’m collaborating with a [chess grandmaster](https://chessmind.ai/) as an AI developer to create a generative AI-powered Chess Tutor bot that delivers personalized post-game analysis and strategic insights.
 
-Before coming to Duke, I worked as a research assistant at the [Vietnam Institute of Mathematics](http://math.ac.vn/en/trang-chu/gioi-thieu-vien-toan.html), focusing on statistical inference and earning a significant research grant from VinIF Vietnam. I earned my bachelor’s degree in Mathematics in [Hanoi National University of Education](https://english.hnue.edu.vn/) and spent a few years teaching university-level statistics and calculus, where I discovered my passion for helping others grow their skills.
+Before Duke, I was a research assistant at the [Vietnam Institute of Mathematics](http://math.ac.vn/en/trang-chu/gioi-thieu-vien-toan.html), where I focused on statistical inference and earned a prestigious research grant from VinIF Vietnam. I hold a bachelor’s degree in Mathematics from [Hanoi National University of Education](https://english.hnue.edu.vn/) and spent a few years teaching university-level statistics and calculus—an experience that sparked my passion for helping others grow their skills.
 
-Technically, I’m skilled in Python, R, and SQL, with experience in AI tools. My interests include predictive modeling, hierachical models, and Bayesian inference.
+On the technical side, I’m skilled in Python, R, and SQL, with experience using various AI tools. My interests lie in predictive modeling, hierarchical models, and Bayesian inference.
 
-Outside of work, I like to recharge with board games, books, DIY projects, and yoga—or just trying to build something new!
+When I’m not working, you can find me recharging with board games, books, DIY projects, yoga, or experimenting with new creations.
 
-Let’s connect and chat about data, AI, and everything in between!
+I’d love to connect and chat about statistics, data science,  AI, and everything in between!

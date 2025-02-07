@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Unconfoundedness vs Synthetic Control in Panel Data Analysis
-description: Exploring time-series and cross-sectional methods to enhance causal inference in panel data.
+title: Causal Inference in Panel Data Analysis
+description: Exploring unconfoundedness and synthetic control methods for longitudinal data analysis.
 img: assets/img/1.jpeg
 importance: 6
-category: statistics
+category: method
 ---
 
 ### **Table of Contents:**

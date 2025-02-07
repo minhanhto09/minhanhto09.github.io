@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: NYTimes Articles Searchers
+description: A Shiny app to search New York Times articles with customizable filters.
+img: assets/img/20.png
+redirect: https://github.com/minhanhto09/NYTimes-API
+importance: 10
+category: application
 ---
 
 Every project has a beautiful feature showcase page.
