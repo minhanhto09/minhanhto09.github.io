@@ -90,8 +90,7 @@ These findings emphasize the value of including both fixed and random effects in
 
 ## Full Report
 
-
-   - Read the detailed report below or download [`full_report.pdf`](/assets/pdf/sparrow.pdf)
+Find all the details in the full project report below:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -100,7 +99,6 @@ These findings emphasize the value of including both fixed and random effects in
         </object>
     </div>
 </div>
-
 
 ## Acknowledgement
 
