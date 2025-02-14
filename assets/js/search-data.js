@@ -45,37 +45,7 @@ ninja.data = [{
           section: "News",},{id: "news-my-graduation-commencement",
           title: 'My graduation commencement! 🎓',
           description: "",
-          section: "News",},{id: "projects-nucls",
-          title: 'NuCLS',
-          description: "Hugging Face Integration and Nuclei detection in breast cancer images using YOLOv8.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-hierarchical-modeling-of-song-sparrows",
-          title: 'Hierarchical Modeling of Song Sparrows',
-          description: "Linear mixed-effects models with time correlation for analyzing avian reproduction.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-peakplanner",
-          title: 'PeakPlanner',
-          description: "An AI-powered scheduler that plans your work and study tasks around your health for peak performance.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-text-to-image-synthesis-using-conditional-vae",
-          title: 'Text-to-Image Synthesis Using Conditional-VAE',
-          description: "Exploring how Conditional Variational Autoencoders generate images from textual descriptions.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-causal-inference-in-panel-data-analysis",
-          title: 'Causal Inference in Panel Data Analysis',
-          description: "Exploring unconfoundedness and synthetic control methods for longitudinal data analysis.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-nytimes-articles-searchers",
-          title: 'NYTimes Articles Searchers',
-          description: "A Shiny app to search New York Times articles with customizable filters.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
+          section: "News",},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
           section: "Projects",handler: () => {
@@ -90,6 +60,36 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-causal-inference-in-panel-data-analysis",
+          title: 'Causal Inference in Panel Data Analysis',
+          description: "Exploring unconfoundedness and synthetic control methods for longitudinal data analysis.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/causal/";
+            },},{id: "projects-text-to-image-synthesis-using-conditional-vae",
+          title: 'Text-to-Image Synthesis Using Conditional-VAE',
+          description: "Exploring how Conditional Variational Autoencoders generate images from textual descriptions.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/cvae/";
+            },},{id: "projects-nucls",
+          title: 'NuCLS',
+          description: "Hugging Face Integration and Nuclei detection in breast cancer images using YOLOv8.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/nucls/";
+            },},{id: "projects-nytimes-articles-searchers",
+          title: 'NYTimes Articles Searchers',
+          description: "A Shiny app to search New York Times articles with customizable filters.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/nytimes/";
+            },},{id: "projects-peakplanner",
+          title: 'PeakPlanner',
+          description: "An AI-powered scheduler that plans your work and study tasks around your health for peak performance.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/peakplanner/";
+            },},{id: "projects-hierarchical-modeling-of-song-sparrows",
+          title: 'Hierarchical Modeling of Song Sparrows',
+          description: "Linear mixed-effects models with time correlation for analyzing avian reproduction.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/sparrow/";
             },},{
         id: 'social-email',
         title: 'email',
