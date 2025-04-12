@@ -5,7 +5,7 @@ description: Hugging Face Integration and Nuclei detection in breast cancer imag
 img: assets/img/12.jpg
 importance: 2
 redirect: https://github.com/minhanhto09/NuCLS
-category: method
+category: work
 related_publications: false
 ---
 

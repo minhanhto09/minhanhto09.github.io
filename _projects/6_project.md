@@ -5,7 +5,7 @@ description: A Shiny app to search New York Times articles with customizable fil
 img: assets/img/20.png
 redirect: https://github.com/minhanhto09/NYTimes-API
 importance: 10
-category: application
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

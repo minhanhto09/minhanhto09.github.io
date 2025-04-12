@@ -4,7 +4,7 @@ title: Causal Inference in Panel Data Analysis
 description: Exploring unconfoundedness and synthetic control methods for longitudinal data analysis.
 img: assets/img/1.jpeg
 importance: 6
-category: method
+category: work
 ---
 
 ### **Table of Contents:**

@@ -4,8 +4,8 @@ title: PeakPlanner
 description: An AI-powered scheduler that plans your work and study tasks around your health for peak performance.
 img: assets/img/18.jpeg
 redirect: https://github.com/minhanhto09/dukeaihackathon24
-importance: 3
-category: application
+importance: 4
+category: work
 ---
 
 Find the full project details, code, and documentation on my GitHub page: [PeakPlanner Project on GitHub](https://github.com/minhanhto09/dukeaihackathon24)
